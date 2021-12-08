@@ -6,4 +6,5 @@ The proper text editor is important for your ability to code. As was previously 
 
 ## The Command Line Basics ##
 The command line is basicially how you tell the computer to do what you want without using the GUI. If you want to access a specific folder you simply type the proper characters in the command prompt and its like magic it follows instructions. There are different instructions that can be given to get the desired results. For instance to navigate to a specific folder or directory you would use a path to get you there by using the "/" symbol or to move backwards you would use the "." symbol. you can also look in the directories or folders by usung the "ls" command and it'll display whats inside the folder for you. The command lines can be tricky but it's worth it to learn all you can.
+
 [III. Git Intro](https://marco-senpai.github.io/git-intro.github.io/)
